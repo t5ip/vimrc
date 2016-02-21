@@ -1,0 +1,2 @@
+# vimrc
+Setting for vim.
