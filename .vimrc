@@ -6,4 +6,4 @@ set expandtab       " tabs are spaces
 set number              " show line numbers
 set cursorline          " highlight current line
 filetype indent on      " load filetype-specific indent files
- 
+colorscheme industry
